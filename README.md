@@ -28,7 +28,7 @@ data, Smart Health (2020), doi: https://doi.org/10.1016/j.smhl.2020.100118.*
 
 
 
-## THE NITTY GRITTY
+##idk
 
 The entirety of the project is contained in "MLIntP3.ipynb" and "Mlearn.ipynb"
 
@@ -148,3 +148,10 @@ The important cells have following labels:
 
 To rerun these cell experiments, one should simply run cells labeled
 "PREPROCESSING" and "LOADING DATA" before.
+
+
+
+
+
+
+POWERED BY VM.
